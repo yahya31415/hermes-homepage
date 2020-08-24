@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.53e1b888dd3dae1098f9d033e69c9774.js"
+  "/precache-manifest.4e40613c3143d584d5fe8bb4edc44d15.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hermes-homepage"});
