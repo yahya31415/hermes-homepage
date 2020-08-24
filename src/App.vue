@@ -12,9 +12,9 @@ import Vue from 'vue';
 export default Vue.extend({
   name: 'App',
 
-  data: () => ({
-    //
-  }),
+  mounted() {
+    this.$title = 'Hermes | Ecommerce for everybody';
+  },
 });
 </script>
 
